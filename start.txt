@@ -1,0 +1,1 @@
+vagrant halt && vagrant destroy && vagrant up && vagrant ssh
